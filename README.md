@@ -8,7 +8,7 @@
   This iteration of <a href="https://thiamibrahima.com" target="_blank">thiamibrahima.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 
-![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
+![demo](https://raw.githubusercontent.com/ibthiam/portfolio/main/src/images/demo.png)
 
 ## Notice
 
@@ -36,7 +36,7 @@ This website is designed and built using [Gatsby](https://www.gatsbyjs.org/docs/
    cd portfolio
    ```
 
-4. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
+4. Install & use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
 
    ```sh
    nvm install
@@ -54,7 +54,7 @@ This website is designed and built using [Gatsby](https://www.gatsbyjs.org/docs/
    npm start
    ```
 
-## Building and Running for Production
+## Building & Running for Production
 
 1. Generate a full static production build
 
@@ -68,7 +68,7 @@ This website is designed and built using [Gatsby](https://www.gatsbyjs.org/docs/
    npm run serve
    ```
 
-## Environment Infomations
+## Environment Informations
 
 1. Current Environment Configuration
 
