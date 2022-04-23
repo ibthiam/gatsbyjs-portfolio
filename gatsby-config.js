@@ -5,7 +5,7 @@ module.exports = {
     title: 'Thiam E. Ibrahima',
     description:
       "Thiam E. Ibrahima est un ingénieur logiciel spécialisé dans l'étude et la création d'expériences numériques exceptionnelles.",
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'https://thiamibrahima.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@ei_thiam',
   },
