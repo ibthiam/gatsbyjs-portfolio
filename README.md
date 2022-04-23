@@ -1,65 +1,65 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://raw.githubusercontent.com/ibthiam/portfolio/main/src/images/logo.png" width="100" />
 </div>
-<h1 align="center">
-  brittanychiang.com - v4
-</h1>
+<h2 align="center">
+  thiamibrahima.com - portfolio
+</h2>
 <p align="center">
   The fourth iteration of <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
-<p align="center">
-  Previous iterations:
-  <a href="https://github.com/bchiang7/v1" target="_blank">v1</a>,
-  <a href="https://github.com/bchiang7/v2" target="_blank">v2</a>,
-  <a href="https://github.com/bchiang7/bchiang7.github.io" target="_blank">v3</a>
-</p>
-<p align="center">
+<!-- <p align="center">
   <a href="https://app.netlify.com/sites/brittanychiang/deploys" target="_blank">
     <img src="https://api.netlify.com/api/v1/badges/1963b488-7b78-48c9-9e2d-6fb5e47ab3af/deploy-status" alt="Netlify Status" />
   </a>
-</p>
+</p> -->
 
 ![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
 
-## 🚨 Forking this repo (please read!)
+## Notice
 
-Many people have contacted me asking me if they can use this code for their own website, and the answer to that question is usually **yes, with attribution**.
+This repository is based on the work of [Brittany Chiang](https://brittanychiang.com).
 
-I value keeping my site open source, but as you all know, _**plagiarism is bad**_. It's always disheartening whenever I find that someone has copied my site without giving me credit. I spent a non-trivial amount of effort building and designing this iteration of my website, and I am proud of it! All I ask of you all is to not claim this effort as your own.
+This website is designed and built using [Gatsby](https://www.gatsbyjs.org/docs/).
 
-Please also note that I did not build this site with the intention of it being a starter theme, so if you have questions about implementation, please refer to the [Gatsby docs](https://www.gatsbyjs.org/docs/).
+## Installation & Set Up
 
-### TL;DR
+1. Copy this Repo
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
+   ```sh
+   git clone https://github.com/ibthiam/portfolio.git -b main
+   ```
 
-## 🛠 Installation & Set Up
-
-1. Install the Gatsby CLI
+2. Install the Gatsby CLI
 
    ```sh
    npm install -g gatsby-cli
    ```
 
-2. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
+3. Go in project folder
+
+   ```sh
+   cd portfolio
+   ```
+
+4. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
 
    ```sh
    nvm install
    ```
 
-3. Install dependencies
+5. Install dependencies
 
    ```sh
-   yarn
+   npm install
    ```
 
-4. Start the development server
+6. Start the development server
 
    ```sh
    npm start
    ```
 
-## 🚀 Building and Running for Production
+## Building and Running for Production
 
 1. Generate a full static production build
 
@@ -67,21 +67,59 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [br
    npm run build
    ```
 
-1. Preview the site as it will appear once deployed
+2. Preview the site as it will appear once deployed
 
    ```sh
    npm run serve
    ```
 
-## 🎨 Color Reference
+## Environment Infomations
+
+1. Current Environment Configuration
+
+   ```sh
+    System:
+        OS: Linux 5.13 Ubuntu 20.04.4 LTS (Focal Fossa)
+        CPU: (2) x64 Intel(R) Celeron(R) CPU  N3050  @ 1.60GHz
+        Shell: 5.0.17 - /bin/bash
+      Binaries:
+        Node: 16.14.2 - ~/.nvm/versions/node/v16.14.2/bin/node
+        npm: 8.5.0 - ~/.nvm/versions/node/v16.14.2/bin/npm
+      Browsers:
+        Chrome: 100.0.4896.127
+        Firefox: 99.0
+      npmPackages:
+        gatsby: ^3.4.1 => 3.14.6
+        gatsby-plugin-google-analytics: ^3.4.0 => 3.14.0
+        gatsby-plugin-image: ^1.4.0 => 1.14.2
+        gatsby-plugin-manifest: ^3.4.0 => 3.14.0
+        gatsby-plugin-netlify: ^3.4.0 => 3.14.0
+        gatsby-plugin-offline: ^4.4.0 => 4.14.0
+        gatsby-plugin-react-helmet: ^4.4.0 => 4.14.0
+        gatsby-plugin-robots-txt: ^1.5.6 => 1.7.1
+        gatsby-plugin-sharp: ^3.4.1 => 3.14.3
+        gatsby-plugin-sitemap: ^4.0.0 => 4.10.0
+        gatsby-plugin-styled-components: ^4.4.0 => 4.14.0
+        gatsby-remark-code-titles: ^1.1.0 => 1.1.0
+        gatsby-remark-external-links: 0.0.4 => 0.0.4
+        gatsby-remark-images: ^5.1.0 => 5.11.0
+        gatsby-remark-prismjs: ^5.1.0 => 5.11.0
+        gatsby-source-filesystem: ^3.4.0 => 3.14.0
+        gatsby-transformer-remark: ^4.1.0 => 4.11.0
+        gatsby-transformer-sharp: ^3.4.0 => 3.14.0
+      npmGlobalPackages:
+        gatsby-cli: 4.12.1
+   ```
+
+## Color Reference
 
 | Color          | Hex                                                                |
 | -------------- | ------------------------------------------------------------------ |
-| Navy           | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) `#0a192f` |
-| Light Navy     | ![#112240](https://via.placeholder.com/10/0a192f?text=+) `#112240` |
-| Lightest Navy  | ![#233554](https://via.placeholder.com/10/303C55?text=+) `#233554` |
-| Slate          | ![#8892b0](https://via.placeholder.com/10/8892b0?text=+) `#8892b0` |
-| Light Slate    | ![#a8b2d1](https://via.placeholder.com/10/a8b2d1?text=+) `#a8b2d1` |
-| Lightest Slate | ![#ccd6f6](https://via.placeholder.com/10/ccd6f6?text=+) `#ccd6f6` |
+| Navy           | ![#203239](https://via.placeholder.com/10/203239?text=+) `#203239` |
+| Light Navy     | ![#233554](https://via.placeholder.com/10/233554?text=+) `#233554` |
+| Lightest Navy  | ![#1D5C63](https://via.placeholder.com/10/1D5C63?text=+) `#1D5C63` |
+| Slate          | ![#a8b2d1](https://via.placeholder.com/10/a8b2d1?text=+) `#a8b2d1` |
+| Light Slate    | ![#ccd6f6](https://via.placeholder.com/10/ccd6f6?text=+) `#ccd6f6` |
+| Lightest Slate | ![#e6f1ff](https://via.placeholder.com/10/e6f1ff?text=+) `#e6f1ff` |
 | White          | ![#e6f1ff](https://via.placeholder.com/10/e6f1ff?text=+) `#e6f1ff` |
 | Green          | ![#64ffda](https://via.placeholder.com/10/64ffda?text=+) `#64ffda` |
