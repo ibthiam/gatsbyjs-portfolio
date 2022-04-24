@@ -3,7 +3,7 @@ date: '3'
 title: 'Portfolio - PERSO'
 cover: './course-card.png'
 external: ''
-cta: ''
+cta: 'https://github.com/ibthiam/portfolio'
 tech:
   - React
   - Gatsby
