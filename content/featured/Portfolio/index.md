@@ -2,6 +2,7 @@
 date: '3'
 title: 'Portfolio - PERSO'
 cover: './course-card.png'
+github: ''
 external: ''
 cta: 'https://github.com/ibthiam/portfolio'
 tech:
