@@ -5,9 +5,9 @@ module.exports = {
     title: 'Thiam E. Ibrahima',
     description:
       "Thiam E. Ibrahima est un ingénieur logiciel spécialisé dans l'étude et la création d'expériences numériques exceptionnelles.",
-    siteUrl: 'https://thiamibrahima.com', // No trailing slash allowed!
+    siteUrl: 'https://thiamibrahima.netlify.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@ei_thiam',
+    twitterUsername: '@ie_thiam',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'IbrahimaThiam',
-        short_name: 'IbrahimaThiam',
+        name: 'Thiam E. Ibrahima',
+        short_name: 'ThiamEIbrahima',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,

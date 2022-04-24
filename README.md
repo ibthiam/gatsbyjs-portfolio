@@ -2,10 +2,10 @@
   <img alt="Logo" src="https://raw.githubusercontent.com/ibthiam/portfolio/main/src/images/logo.png" width="100" />
 </div>
 <h2 align="center">
-  thiamibrahima.com - portfolio
+  # Thiam E. Ibrahima - Personal WebSite
 </h2>
 <p align="center">
-  This iteration of <a href="https://thiamibrahima.com" target="_blank">thiamibrahima.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  This iteration of <a href="https://thiamibrahima.netlify.com" target="_blank">thiamibrahima.netlify.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 
 <p align="center">
