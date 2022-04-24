@@ -1,7 +1,7 @@
 ---
 date: '3'
 title: 'Portfolio - PERSO'
-cover: './course-card.png'
+cover: './demo.png'
 github: ''
 external: ''
 cta: 'https://github.com/ibthiam/portfolio'

@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'FORSA - SMIT'
-cover: './halcyon.png'
+cover: './demo.png'
 github: ''
 external: ''
 cta: 'https://www.forsa.ma/'
