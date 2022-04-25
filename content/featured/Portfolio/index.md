@@ -14,6 +14,6 @@ tech:
   - CSS
 ---
 
-Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
+J'ai créé, sur la base du travail de [Brittany Chiang](https://github.com/bchiang7), ce site web personnel afin  d'illustrer mes compétences & mon expérience et vous donner un aperçu de mon parcours professionnel, jusqu'ici du moins. 
 
-Unlike tutorials that only cover a few concepts and leave you with half-baked GitHub repositories, this course covers everything from explaining the principles of REST APIs to implementing Spotify's OAuth flow and fetching API data in a React app. By the end of the course, you’ll have an app deployed to the internet you can add to your portfolio.
+Ce site est conçu avec le framework open source [Gatsby](https://www.gatsbyjs.com/) qui est basé à son sur [React](https://fr.reactjs.org/).

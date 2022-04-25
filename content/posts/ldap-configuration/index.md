@@ -5,8 +5,8 @@ date: 2022-04-23
 draft: false
 slug: '/pensieve/ldap-configuration'
 tags:
+  - eSAW
   - LDAP
-  - eSignAnyWhere
 ---
 
 ## Problem

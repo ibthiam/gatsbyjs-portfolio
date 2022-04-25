@@ -61,6 +61,7 @@ const StyledCredit = styled.div`
     line-height: 1.5;
     text-transform: uppercase;
     letter-spacing: 0.2em;
+    margin-bottom: 10px;
 
     svg {
       width: 20px;

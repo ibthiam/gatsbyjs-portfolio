@@ -5,8 +5,8 @@ date: 2022-04-23
 draft: false
 slug: /pensieve/sso-configuration
 tags:
+  - eSAW
   - SSO
-  - eSignAnyWhere
 ---
 
 Dark mode toggle without the flash of default theme. Important bits:

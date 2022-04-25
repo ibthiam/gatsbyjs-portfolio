@@ -5,8 +5,8 @@ date: 2022-04-23
 draft: false
 slug: /pensieve/too-many-redirects
 tags:
+  - eSAW
   - IIS
-  - eSignAnyWhere
 ---
 
 [Codepen Demo](https://codepen.io/bchiang7/pen/xxRBvgd?editors=1100)

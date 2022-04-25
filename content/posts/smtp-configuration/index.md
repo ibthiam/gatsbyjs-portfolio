@@ -1,11 +1,12 @@
 ---
-title: WordPress Publishing Error
+title: SMTP Configuration
 description: Trying to create a simple post in WordPress
 date: 2022-04-23
-draft: true
+draft: false
 slug: /pensieve/wordpress-publish-error
 tags:
-  - WordPress
+  - eSAW
+  - SMTP
 ---
 
 ## Problem
