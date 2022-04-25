@@ -1,7 +1,7 @@
 ---
 title: Shared Certificat Configuration
 description: Trying to create a simple post in WordPress
-date: 2022-04-23
+date: 2022-04-25
 draft: false
 slug: /pensieve/wordpress-publish-error
 tags:
