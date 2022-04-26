@@ -7,10 +7,10 @@ range: 'Juil. 2019 - Mars 2020'
 url: ''
 ---
 
-- Mettre en place d'une application Mobile Hybride commerciale (en [#ionic](https://ionicframework.com/docs/v4/components) et [#firebase](https://firebase.google.com/docs)) permettant la génération, le stockage et le partage d'un code basé sur les coordonnées géographiques d'une cible,
+- Mettre en place une application Mobile Hybride commerciale (en [#ionic](https://ionicframework.com/docs/v4/components) et [#firebase](https://firebase.google.com/docs)) permettant la génération, le stockage et le partage d'un code basé sur les coordonnées géographiques d'une cible,
 - Participer à l'élaboration du cahier des charges,
 - Analyser les besoins fonctionnels formulés par la maîtrise d'ouvrage,
 - Vérifier la conformité de l'ouvrage par rapport au besoin,
-- Lancer des batteries de tests fonctionnels
+- Mener des batteries de tests fonctionnels
 
 

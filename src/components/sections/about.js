@@ -90,7 +90,7 @@ const StyledPic = styled.div`
 
     &:before,
     &:after {
-      content: '';
+      content: '';&
       display: block;
       position: absolute;
       width: 100%;
@@ -142,7 +142,7 @@ const About = () => {
               Tumblr themes — turns out hacking together a custom reblog button taught me a lot
               about HTML &amp; CSS! */}
 
-              Bonjour! Je m'appelle Ibrahima et j'aime créer &amp; manipuler des choses qui vivent sur Internet. 
+              Bonjour! Je m'appelle Ibrahima &amp; j'aime créer (et manipuler) des choses qui vivent sur Internet. 
               Ma passion pour les métiers de l'informatique a commencé horizon 2016 lorsque j'ai décidé de m'essayer 
               aux technologies  web, <a href="">HTML</a> &amp; <a href="">CSS</a>, pour être plus exact!
             </p>
@@ -163,7 +163,7 @@ const About = () => {
 
             <p>
               J'ai également eu l'opportunité de contribuer à plusieurs <Link to={navLinks[1].url}>Expériences entrepreneuriales</Link> {' '}
-              au sein d'entreprises reconnues pour leur savoir-faire et la qualité de leurs services.
+              au sein d'entreprises reconnues pour leur savoir-faire &amp; la qualité de leurs services.
             </p>
 
             <p>Voici quelques technologies avec lesquelles j'ai travaillé récemment :</p>
