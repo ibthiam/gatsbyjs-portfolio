@@ -1,32 +1,29 @@
 ---
 title: SMTP Configuration
-description: Trying to create a simple post in WordPress
+description: Configuration de la connexion SMTP
 date: 2022-04-25
 draft: false
-slug: /pensieve/wordpress-publish-error
+slug: /pensieve/smtp-configuration
 tags:
   - eSAW
   - SMTP
 ---
 
-## Problem
+## Information
 
-Recently while working on a WordPress project with [Ups Dock](https://github.com/Upstatement/ups-dock), I encountered a weird error where I wasn't able to update or publish a simple post in my local WP admin.
+Ici, il est question de la version `21.31.0.1504` de la solution.
 
-It looked something like this:
+Il s'agit de la configuration du lien entre eSAW et un serveur de messagerie disponible et accessible.
 
-![Draft fail](./draft-fail.png)
+Afin d'appliquer cette configuration, il faut accéder au fichier `manifest.xml`, trouver le noeud `...` puis y placer la configuration suivante:
 
-Sometimes the error message would be slightly more helpful: `Publishing failed. Error message: The response is not a valid JSON response.`
+```xml:title=.../manifest.xml
+  ...
 
-![Publish error](./publish-error.png)
+```
 
-And if I popped open the console, I saw these errors:
+[À compléter]
 
-![Console errors](./console-errors.png)
+## Resources
 
-## Solution
-
-Since the error message had to do with a JSON response, I initially thought it was a Gutenberg or ACF issue. But it turned out this was happening because I was on the https WP admin (i.e. [https://project.ups.dock/wp-admin](https://project.ups.dock/wp-admin)), not the unsecure WP admin ([http://project.ups.dock/wp-admin](http://project.ups.dock/wp-admin)).
-
-It was a CORS error!! I was trying to modify a non-https domain from a https domain. Switching to a non-https WP admin allowed me to publish posts with no problem.
+- <https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/>
