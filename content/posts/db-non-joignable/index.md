@@ -27,8 +27,18 @@ En fonction de la nature du problème, plusieurs possibilité de diagnostic sont
 
 ### Vérifier que la base de données est accessible
 
-[À compléter]
+Pour faire ce diagnostique, vous pouvez utiliser l'outil `sqlcmd` afin de vous connectez à la base de données en utilisant `Windows PowerShell`.
+
+```shell
+sqlcmd -S $ip\$instance,$port -U $utilisateur -P $motDePasse 
+
+```
+
+Si l'outil ne réussi pas à connecter, c'est que les identifiants de connexion que vous utilisez sont incorrectes.
 
 ### Accorder à l'utilisateur de droit DbCreator
 
-[À compléter]
+Une fois que les identifiants sont corrects, et l'instance accessible. Il faut vous assurer que l'utilisateur dispose du privilège `dbCreator`. 
+
+Cette information peut venir du responsable de l'environnement dans le cas d'un client. Dans le cas ou, le serveur de base de données est accessible,  vous pouvez le faire vous même.
+

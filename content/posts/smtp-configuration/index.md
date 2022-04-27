@@ -18,12 +18,16 @@ Il s'agit de la configuration du lien entre eSAW et un serveur de messagerie dis
 Afin d'appliquer cette configuration, il faut accéder au fichier `manifest.xml`, trouver le noeud `...` puis y placer la configuration suivante:
 
 ```xml:title=.../manifest.xml
-  ...
-
+<Email>
+  <administratorEMailAddressesSeparatedBySemicolon>example@example.com</administratorEMailAddressesSeparatedBySemicolon>
+  <smtpfrom>noreply@example.com</smtpfrom>
+  <smtpnetworkhost>example.example.net</smtpnetworkhost>
+	<smtpnetworkport>25</smtpnetworkport>
+  <smtpnetworkenableSsl>*0*</smtpnetworkenableSsl>
+  <smtpnetworkauthenticationtype>none</smtpnetworkauthenticationtype>
+  <smtpnetworkauthenticationbasicusername></smtpnetworkauthenticationbasicusername>
+  <smtpnetworkauthenticationbasicpassword></smtpnetworkauthenticationbasicpassword>
+</Email>
 ```
 
 [À compléter]
-
-## Resources
-
-- <https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/>

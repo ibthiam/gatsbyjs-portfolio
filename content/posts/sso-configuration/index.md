@@ -25,5 +25,3 @@ Pour mettre en place cette configuration, il faut, une fois la solution install�
 [À compléter]
 
 ## Resources
-
-- <https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/>
