@@ -1,9 +1,9 @@
 ---
 date: '2021-02-15'
 title: 'Consultant IT'
-company: 'Gemadec'
-location: 'Casablanca, Casablanca-Settar, Maroc'
-range: "Févr. 2021 - Aujourd'hui"
+company: 'Gemadec [Alternance]'
+location: 'Casablanca, Casablanca-Settat, Maroc'
+range: "Févr. 2021 - Sept. 2022"
 url: 'https://gemadec.com/'
 ---
 
