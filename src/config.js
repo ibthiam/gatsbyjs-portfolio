@@ -3,10 +3,6 @@ module.exports = {
 
   socialMedia: [
     {
-      name: 'Trailhead',
-      url: 'https://trailblazer.me/id/ibthiam',
-    },
-    {
       name: 'GitHub',
       url: 'https://github.com/ibthiam/',
     },
@@ -17,6 +13,10 @@ module.exports = {
     {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/eithiam/',
+    },
+    {
+      name: 'Trailhead',
+      url: 'https://trailblazer.me/id/ibthiam',
     },
   ],
 
