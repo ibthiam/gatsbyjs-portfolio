@@ -5,7 +5,7 @@
   # Thiam E. Ibrahima - Personal WebSite
 </h2>
 <p align="center">
-  This iteration of <a href="https://thiamibrahima.netlify.com" target="_blank">thiamibrahima.netlify.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  This iteration of <a href="https://thiamibrahima.netlify.app" target="_blank">thiamibrahima.netlify.app</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 
 <p align="center">
