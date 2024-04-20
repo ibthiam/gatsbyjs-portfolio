@@ -5,17 +5,23 @@ const variables = css`
     --dark-navy: #1A1C23;
     --navy: #1A1C23;
     --light-navy: #2B2B3B;
-    --lightest-navy: #3C3C53;
+    --lightest-navy: #DA3C83;
+    
     --navy-shadow: rgba(2, 12, 27, 0.7);
+    
     --dark-slate: #8892b0;
     --slate: #a8b2d1;
     --light-slate: #ccd6f6;
     --lightest-slate: #e6f1ff;
+    
     --white: #e6f1ff;
+    
     --green: #DA3C83;
     --green-tint: rgba(100, 255, 218, 0.1);
+    
     --pink: #f57dff;
     --blue: #57cbff;
+
 
     --font-sans: 'Calibre', 'Inter', 'San Francisco', 'SF Pro Text', -apple-system, system-ui,
       sans-serif;
