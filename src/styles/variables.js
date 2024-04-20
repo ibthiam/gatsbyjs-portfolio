@@ -2,10 +2,10 @@ import { css } from 'styled-components';
 
 const variables = css`
   :root {
-    --dark-navy: #15161B;
-    --navy: #15161B;
-    --light-navy: #233554;
-    --lightest-navy: #2A2D41;
+    --dark-navy: #1A1C23;
+    --navy: #1A1C23;
+    --light-navy: #2B2B3B;
+    --lightest-navy: #3C3C53;
     --navy-shadow: rgba(2, 12, 27, 0.7);
     --dark-slate: #8892b0;
     --slate: #a8b2d1;
