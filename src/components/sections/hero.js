@@ -79,7 +79,7 @@ const Hero = () => {
       href="#"
       target="_blank"
       rel="noreferrer">
-      Most recent contribution: &ldquo;<u>AMI EHT</u>&rdquo;
+      Recent contribution: &ldquo;<u>AMI EHT</u>&rdquo;
     </a>
   );
 
