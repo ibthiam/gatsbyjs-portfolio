@@ -59,13 +59,13 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Hey, I am</h1>;
+  const one = <h1>👋 Hi, I am</h1>;
   const two = <h2 className="medium-heading">Thiam E. Ibrahima</h2>;
   const three = <h3 className="medium-heading">Je produis des &ldquo;outils&rdquo; Web &amp; Mobile</h3>;
   const four = (
     <>
       <p>
-        I'm a software developer focused on <a href="">JavaScript</a>, <a href="">JAVA</a> and <a href="">Python</a>, currently living in Casablanca. Right now I'm working on <a href="">React.js</a> and <a hred="">Next.js</a>. 
+        I'm a software developer focused on <a href="">JavaScript</a>, <a href="">Java</a> and <a href="">Python</a>, currently living in Casablanca. Right now I'm working on <a href="">React.js</a> and <a hred="">Next.js</a>. 
       </p>
     </>
   );
