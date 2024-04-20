@@ -8,7 +8,7 @@ import sr from '@utils/sr';
 import { usePrefersReducedMotion } from '@hooks';
 
 const StyledJobsSection = styled.section`
-  max-width: 700px;
+  max-width: 800px;
 
   .inner {
     display: flex;
@@ -44,8 +44,6 @@ const StyledTabList = styled.div`
     width: calc(100% + 50px);
     padding-left: 25px;
     margin-left: -25px;
-    
-    background-color: blue;
   }
 
   li {
