@@ -59,20 +59,10 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Bonjour, Je m'appelle</h1>;
-  const two = <h3 className="big-heading">Thiam E. Ibrahima.</h3>;
-  const three = <h4 className="medium-heading">Je produis des &ldquo;outils&rdquo; Web &amp; Mobile.</h4>;
+  const two = <h2 className="medium-heading">Thiam E. Ibrahima.</h2>;
+  const three = <h3 className="subtitle">Je produis des &ldquo;outils&rdquo; Web &amp; Mobile.</h3>;
   const four = (
     <>
-      {/* <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
-        </a>
-        . *Dernièrement, je travaille sur des technologies ECM*.
-      </p> */}
-
       <p>
         Je suis un ingénieur logiciel spécialisé dans l'étude &amp; la création d'expériences numériques 
         exceptionnelles. 
