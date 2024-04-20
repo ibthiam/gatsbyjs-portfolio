@@ -5,14 +5,14 @@ const variables = css`
     --dark-navy: #15161B;
     --navy: #15161B;
     --light-navy: #233554;
-    --lightest-navy: #1D5C63;
+    --lightest-navy: #2A2D41;
     --navy-shadow: rgba(2, 12, 27, 0.7);
     --dark-slate: #8892b0;
     --slate: #a8b2d1;
     --light-slate: #ccd6f6;
     --lightest-slate: #e6f1ff;
     --white: #e6f1ff;
-    --green: #64ffda;
+    --green: #DA3C83;
     --green-tint: rgba(100, 255, 218, 0.1);
     --pink: #f57dff;
     --blue: #57cbff;
