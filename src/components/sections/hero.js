@@ -76,10 +76,10 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://smit.gov.ma/nos-ami#eht"
+      href="#"
       target="_blank"
       rel="noreferrer">
-      Contribution la plus récente: &ldquo;<u>AMI EHT</u>&rdquo;
+      Most recent contribution: &ldquo;<u>AMI EHT</u>&rdquo;
     </a>
   );
 
