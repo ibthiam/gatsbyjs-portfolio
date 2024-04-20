@@ -14,27 +14,23 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/eithiam/',
     },
-    {
-      name: 'Trailhead',
-      url: 'https://trailblazer.me/id/ibthiam',
-    },
   ],
 
   navLinks: [
     {
-      name: 'À propos',
+      name: 'About',
       url: '/#about',
     },
     {
-      name: 'Expérience',
+      name: 'Experience',
       url: '/#jobs',
     },
     {
-      name: 'Réalisation',
+      name: 'Projects',
       url: '/#projects',
     },
     {
-      name: 'Contactez',
+      name: 'Contact',
       url: '/#contact',
     },
   ],
