@@ -32,6 +32,7 @@ const StyledHeroSection = styled.section`
     margin-top: 10px;
     color: var(--slate);
     line-height: 0.9;
+    font-size: clamp(40px, 8vw, 40px);
   }
 
   p {
@@ -60,7 +61,7 @@ const Hero = () => {
 
   const one = <h1>Bonjour, Je m'appelle</h1>;
   const two = <h2 className="medium-heading">Thiam E. Ibrahima.</h2>;
-  const three = <h3 className="subtitle">Je produis des &ldquo;outils&rdquo; Web &amp; Mobile.</h3>;
+  const three = <h3 className="medium-heading">Je produis des &ldquo;outils&rdquo; Web &amp; Mobile.</h3>;
   const four = (
     <>
       <p>
