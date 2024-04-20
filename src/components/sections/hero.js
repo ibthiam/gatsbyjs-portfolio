@@ -69,7 +69,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I'm a software developer focused on <a href="">JavaScript</a>, <a href="">Java</a> and <a href="">Python</a>, currently living in Casablanca. Right now I'm working on <a href="">React.js</a> and <a hred="">Next.js</a>. 
+        I'm a software developer focused on <a href="">JavaScript</a>, <a href="">Java</a> and <a href="">Python</a>, currently living in Casablanca. Right now I'm working on <a href="">React.js</a> and <a href="">Next.js</a>. 
       </p>
     </>
   );
