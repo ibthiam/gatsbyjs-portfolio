@@ -5,16 +5,16 @@ const variables = css`
     --dark-navy: #1A1C23;
     --navy: #1A1C23;
     --light-navy: #2B2B3B;
-    --lightest-navy: #DA3C83;
+    --lightest-navy: #57cbff;
     
     --navy-shadow: rgba(2, 12, 27, 0.7);
     
     --dark-slate: #8892b0;
     --slate: #a8b2d1;
     --light-slate: #ccd6f6;
-    --lightest-slate: #e6f1ff;
+    --lightest-slate: #F5F9FF;
     
-    --white: #e6f1ff;
+    --white: #F5F9FF;
     
     --green: #57cbff;
     --green-tint: rgba(87, 203, 255, 0.1);
