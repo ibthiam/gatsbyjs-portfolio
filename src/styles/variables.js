@@ -17,18 +17,18 @@ const variables = css`
     --pink: #f57dff;
     --blue: #57cbff;
 
-    --font-sans: 'Poppins', 'Calibre', 'Inter', 'San Francisco', 'SF Pro Text', -apple-system, system-ui,
+    --font-sans: 'Calibre', 'Inter', 'San Francisco', 'SF Pro Text', -apple-system, system-ui,
       sans-serif;
     --font-mono: 'SF Mono', 'Fira Code', 'Fira Mono', 'Roboto Mono', monospace;
 
-    --fz-xxs: 12px;
-    --fz-xs: 13px;
-    --fz-sm: 14px;
-    --fz-md: 16px;
-    --fz-lg: 18px;
-    --fz-xl: 20px;
-    --fz-xxl: 22px;
-    --fz-heading: 32px;
+    --fz-xxs: 10px;
+    --fz-xs: 11px;
+    --fz-sm: 12px;
+    --fz-md: 14px;
+    --fz-lg: 16px;
+    --fz-xl: 18px;
+    --fz-xxl: 20px;
+    --fz-heading: 30px;
 
     --border-radius: 4px;
     --nav-height: 80px;
