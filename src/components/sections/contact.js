@@ -56,18 +56,18 @@ const Contact = () => {
 
   return (
     <StyledContactSection id="contact" ref={revealContainer}>
-      <h2 className="numbered-heading overline">Et maintenant?</h2>
+      <h2 className="numbered-heading overline">And now?</h2>
 
-      <h2 className="title">Entrons en contact</h2>
+      <h2 className="title">Let's get in touch</h2>
 
       <p>
-        N'hésitez pas à m'envoyer un email. Que vous ayez une question ou que vous souhaitiez simplement dire bonjour, ma boîte de réception est toujours ouverte !
-        Vous pouvez également me joindre sur mon{' '}
-        <a href={socialMedia[socialMedia.length -1].url}>Linkedin</a>, c'est un bon point de départ.
+        Feel free to send me an email. Whether you have a question or just want to say hello, my inbox is always open!
+        You can also reach me on my {' '}
+        <a href={socialMedia[socialMedia.length -1].url}>Linkedin</a>, it's a good starting point.
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>
-        Dites bonjour
+        Say hello 👋
       </a>
     </StyledContactSection>
   );
