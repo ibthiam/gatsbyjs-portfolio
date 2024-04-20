@@ -267,7 +267,7 @@ const Menu = () => {
             )}
 
             <a href="/Thiam E Ibrahima.pdf" className="resume-link">
-              Mon CV
+              Resume
             </a>
           </nav>
         </StyledSidebar>
