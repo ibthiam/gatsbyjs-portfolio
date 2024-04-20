@@ -40,15 +40,6 @@ const StyledHeroSection = styled.section`
     max-width: 740px;
   }
 
-  code {
-    border: 1px solid var(--green);
-    padding: 2px;
-    margin: 0 2px 0 2px;
-    font-size: var(--fz-sm);
-    color: var(--green);
-    font-family: var(--font-mono);
-  }
-
   .email-link {
     ${({ theme }) => theme.mixins.bigButton};
     margin-top: 50px;
@@ -74,7 +65,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I'm a software developer focused on <code>Javascript</code>, Java and Python, currently living in Casablanca. Right now I'm working on React and Next.js. 
+        I'm a software developer focused on <a href="">JavaScript</a>, <a href="">JAVA</a> and <a href="">Python</a>, currently living in Casablanca. Right now I'm working on <a href="">React.js</a> and <a hred="">Next.js</a>. 
       </p>
     </>
   );
