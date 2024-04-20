@@ -45,8 +45,7 @@ const StyledTabList = styled.div`
     padding-left: 25px;
     margin-left: -25px;
     
-    scrollbar-width: thin;
-    scrollbar-color: var(--dark-slate) var(--navy);
+    background-color: blue;
   }
 
   li {
