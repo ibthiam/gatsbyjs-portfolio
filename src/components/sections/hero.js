@@ -40,6 +40,13 @@ const StyledHeroSection = styled.section`
     max-width: 740px;
   }
 
+  code {
+    font-family: Consolas,"courier new";
+    color: var(--green);
+    border: 2px dashed var(--green);
+    padding: 2px;
+  }
+
   .email-link {
     ${({ theme }) => theme.mixins.bigButton};
     margin-top: 50px;
@@ -59,14 +66,13 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Bonjour, Je m'appelle</h1>;
-  const two = <h2 className="medium-heading">Thiam E. Ibrahima.</h2>;
-  const three = <h3 className="medium-heading">Je produis des &ldquo;outils&rdquo; Web &amp; Mobile.</h3>;
+  const one = <h1>Hey, I am</h1>;
+  const two = <h2 className="medium-heading">Thiam E. Ibrahima</h2>;
+  const three = <h3 className="medium-heading">Je produis des &ldquo;outils&rdquo; Web &amp; Mobile</h3>;
   const four = (
     <>
       <p>
-        Je suis un ingénieur logiciel spécialisé dans l'étude &amp; la création d'expériences numériques 
-        exceptionnelles. 
+        I'm a software developer focused on Javascript, Java and Python, currently living in Casablanca. Right now I'm working on React and Next.js. 
       </p>
     </>
   );
