@@ -72,7 +72,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I'm a software developer focused on Javascript, Java and Python, currently living in Casablanca. Right now I'm working on React and Next.js. 
+        I'm a software developer focused on <code>Javascript</code>, Java and Python, currently living in Casablanca. Right now I'm working on React and Next.js. 
       </p>
     </>
   );
