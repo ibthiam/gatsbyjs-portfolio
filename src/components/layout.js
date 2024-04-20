@@ -54,7 +54,7 @@ const Layout = ({ children, location }) => {
           <GlobalStyle />
 
           <a className="skip-to-content" href="#content">
-            Passer au contenu
+            Skip to content
           </a>
 
           {isLoading && isHome ? (
