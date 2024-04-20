@@ -174,7 +174,7 @@ const Nav = ({ isHome }) => {
 
   const ResumeLink = (
     <a className="resume-button" href="/Thiam E Ibrahima.pdf" target="_blank" rel="noopener noreferrer">
-      Mon CV
+      Resume
     </a>
   );
 
