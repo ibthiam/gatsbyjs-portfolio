@@ -44,6 +44,10 @@ const StyledHeroSection = styled.section`
     ${({ theme }) => theme.mixins.bigButton};
     margin-top: 50px;
   }
+
+  .love::selection {
+    color: var(--pink);
+  }
 `;
 
 const Hero = () => {
@@ -61,7 +65,7 @@ const Hero = () => {
 
   const one = <h1>👋 Hi, I'm</h1>;
   const two = <h2 className="medium-heading">Thiam E. Ibrahima</h2>;
-  const three = <h3 className="medium-heading">I love building things on the web 💻</h3>;
+  const three = <h3 className="medium-heading">I <span className="love">love</span> building things on the web 💻</h3>;
   const four = (
     <>
       <p>
