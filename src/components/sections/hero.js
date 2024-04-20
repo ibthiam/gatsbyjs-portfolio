@@ -41,10 +41,12 @@ const StyledHeroSection = styled.section`
   }
 
   code {
-    font-family: Consolas,"courier new";
-    color: var(--green);
-    border: 2px dashed var(--green);
+    border: 1px solid var(--green);
     padding: 2px;
+    margin: 0 2px 0 2px;
+    font-size: var(--fz-sm);
+    color: var(--green);
+    font-family: var(--font-mono);
   }
 
   .email-link {
