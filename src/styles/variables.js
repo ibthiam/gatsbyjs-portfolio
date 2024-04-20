@@ -3,7 +3,7 @@ import { css } from 'styled-components';
 const variables = css`
   :root {
     --dark-navy: #15161B;
-    --navy: #203239;
+    --navy: #15161B;
     --light-navy: #233554;
     --lightest-navy: #1D5C63;
     --navy-shadow: rgba(2, 12, 27, 0.7);
