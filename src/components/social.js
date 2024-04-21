@@ -1,9 +1,10 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import styled from 'styled-components';
-import { socialMedia } from '@config';
+import { socialMedia, archiveLinks } from '@config';
 import { Side } from '@components';
 import { Icon } from '@components/icons';
+import { Link } from 'gatsby';
 
 const StyledSocialList = styled.ul`
   display: flex;
@@ -52,6 +53,19 @@ const Social = ({ isHome }) => (
             <a href={url} aria-label={name} target="_blank" rel="noreferrer">
               <Icon name={name} />
             </a>
+          </li>
+        ))}
+
+      {archiveLinks &&
+        archiveLinks.map(({ url, name }, i) => (
+          <li key={i}>
+            <Link to={url}>
+              <Icon name={name} />
+            </Link>
+
+           {/*<a href={url} aria-label={name} target="_blank" rel="noreferrer">
+              <Icon name={name} />
+            </a>*/}
           </li>
         ))}
     </StyledSocialList>
