@@ -1,9 +1,9 @@
 ---
 date: '2022-10-01'
-title: 'Software Engineer'
-company: 'Gemadec'
-location: 'Casablanca, Casablanca-Settat, Maroc'
-range: "Oct. 2022 - Aujourd'hui"
+title: 'Full Stack Engineer'
+company: 'GEMADEC'
+location: 'Casablanca, Casablanca-Settat, Morocco'
+range: "Oct. 2022 - Today"
 url: 'https://gemadec.com/'
 ---
 
