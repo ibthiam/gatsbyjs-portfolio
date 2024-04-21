@@ -62,10 +62,6 @@ const Social = ({ isHome }) => (
             <Link to={url}>
               <Icon name={name} />
             </Link>
-
-           {/*<a href={url} aria-label={name} target="_blank" rel="noreferrer">
-              <Icon name={name} />
-            </a>*/}
           </li>
         ))}
     </StyledSocialList>
