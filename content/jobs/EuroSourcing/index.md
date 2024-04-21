@@ -1,9 +1,9 @@
 ---
 date: '2019-07-15'
-title: 'Software Engineer'
-company: 'Euro Sourcing'
-location: 'Casablanca, Casablance-Settat, Maroc'
-range: 'Juil. 2019 - Mars 2020'
+title: 'Hybrid Mobile Developer'
+company: 'EURO SOURCING'
+location: 'Casablanca, Casablance-Settat, Morocco'
+range: 'July 2019 - March 2020'
 url: ''
 ---
 
