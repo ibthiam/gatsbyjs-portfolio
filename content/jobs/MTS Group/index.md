@@ -1,9 +1,9 @@
 ---
 date: '2019-07-01'
-title: 'Web Software Developper'
-company: 'MTS Group'
-location: 'Casablanca, Casablance-Settat, Maroc'
-range: 'Juil. 2019 - Sept. 2019'
+title: 'Web Developer'
+company: 'MTS GROUP'
+location: 'Casablanca, Casablance-Settat, Morocco'
+range: 'July 2019 - Sept. 2019'
 url: 'https://mtsgroup.ma/'
 ---
 
