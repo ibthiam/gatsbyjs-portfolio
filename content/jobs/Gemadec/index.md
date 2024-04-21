@@ -3,7 +3,7 @@ date: '2021-02-15'
 title: 'Consultant'
 company: 'GEMADEC [Alt.]'
 location: 'Casablanca, Casablanca-Settat, Morocco'
-range: "Febr. 2021 - Sept. 2022"
+range: "02.2021 - 09.2022"
 url: 'https://gemadec.com/'
 ---
 
