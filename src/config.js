@@ -18,7 +18,7 @@ module.exports = {
 
   archiveLinks: [
     {
-      name: 'External',
+      name: 'Folder',
       url: '/pensieve',
     },
   ],
