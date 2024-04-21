@@ -1,9 +1,9 @@
 ---
 date: '2020-08-01'
-title: 'Software Engineer'
-company: 'Optimum 4 You'
-location: 'Mohammedia, Casablance-Settat, Maroc'
-range: 'Août - Nov. 2020'
+title: 'Web Developer'
+company: 'OPTIMUM4U'
+location: 'Mohammedia, Casablance-Settat, Morocco'
+range: '08.2020 - 11.2020'
 url: ''
 ---
 
