@@ -3,7 +3,7 @@ date: '2022-10-01'
 title: 'Full Stack Engineer'
 company: 'GEMADEC'
 location: 'Casablanca, Casablanca-Settat, Morocco'
-range: "Oct. 2022 - Today"
+range: "10.2022 - Today"
 url: 'https://gemadec.com/'
 ---
 
