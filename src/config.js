@@ -16,6 +16,13 @@ module.exports = {
     },
   ],
 
+  archiveLinks: [
+    {
+      name: 'External',
+      url: '/pensieve',
+    },
+  ],
+
   navLinks: [
     {
       name: 'About',
