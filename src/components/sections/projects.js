@@ -263,10 +263,10 @@ const Projects = () => {
 
   return (
     <StyledProjectsSection>
-      <h2 ref={revealTitle}>Autres réalisations</h2>
+      <h2 ref={revealTitle}>Other achievements</h2>
 
       <Link className="inline-link archive-link" to="/archive" ref={revealArchiveLink}>
-        Voir les archives
+        View archives
       </Link>
 
       <ul className="projects-grid">
@@ -301,7 +301,7 @@ const Projects = () => {
       </ul>
 
       <button className="more-button" onClick={() => setShowMore(!showMore)}>
-        En voir {showMore ? 'Moins' : 'Plus'}
+        See {showMore ? 'less' : 'more'}
       </button>
     </StyledProjectsSection>
   );
