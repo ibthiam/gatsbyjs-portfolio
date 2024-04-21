@@ -127,7 +127,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'Java', 'React', 'GatsbyJs', 'Moovapps Process', 'Odoo'];
+  const skills = ['React.js', 'JavaScript', 'TypeScript', 'Java', 'Spring', 'Python', 'Django'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -137,36 +137,21 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              {/* Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS! */}
-
-              Bonjour! Je m'appelle Ibrahima &amp; j'aime créer (et manipuler) des choses qui vivent sur Internet. 
-              Ma passion pour les métiers de l'informatique a commencé horizon 2016 lorsque j'ai décidé de m'essayer 
-              aux technologies  web, <a href="">HTML</a> &amp; <a href="">CSS</a>, pour être plus exact!
+              My passion for IT professions began in 2016 when I decided to try my hand at web technologies, <a href="">HTML</a>, 
+              <a href="">CSS</a> &amp; <a href="">JS</a>, to be more exact!
             </p>
 
             <p>
-              {/* Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients. */}
-
-              Depuis, j'ai eu le privilège d'étudier &amp; d'obtenir un diplôme d'ingénieur études et développements ainsi 
-              que de travailler sur plusieurs projets en <Link to={navLinks[2].url}>Freelance</Link>. 
+              Since then, I have had the privilege of studying &amp; obtaining a studies and development engineering diploma as well 
+              as working on several <Link to={navLinks[2].url}>Freelance</Link> projects.
             </p>
 
             <p>
-              J'ai également eu l'opportunité de contribuer à plusieurs <Link to={navLinks[1].url}>Expériences entrepreneuriales</Link> {' '}
-              au sein d'entreprises reconnues pour leur savoir-faire &amp; la qualité de leurs services.
+              I also had the opportunity to contribute to several <Link to={navLinks[1].url}>Entrepreneurial Experiences</Link> {' '}
+              within companies recognized for their know-how &amp; the quality of their services.
             </p>
 
-            <p>Voici quelques technologies avec lesquelles j'ai travaillé récemment :</p>
+            <p>Here are some technologies I've been working with recently:</p>
           </div>
 
           <ul className="skills-list">
