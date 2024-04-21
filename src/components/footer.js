@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import PropTypes from 'prop-types';
 import styled from 'styled-components';
 import { Icon } from '@components/icons';
-import { socialMedia } from '@config';
+import { socialMedia, archiveLinks } from '@config';
 import { Link } from 'gatsby';
 
 const StyledFooter = styled.footer`
@@ -118,6 +118,15 @@ const Footer = () => {
                 <a href={url} aria-label={name}>
                   <Icon name={name} />
                 </a>
+              </li>
+            ))}
+
+          {archiveLinks &&
+            archiveLinks.map(({ name, url }, i) => (
+              <li key={i}>
+                <Link to={url}>
+                  <Icon name={name} />
+                </Link>
               </li>
             ))}
         </ul>
