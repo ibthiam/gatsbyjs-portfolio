@@ -124,11 +124,11 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-        <span className="breadcrumb-span">
+        {/*<span className="breadcrumb-span">
           <Icon name="External" />
           <Link to="/pensieve">Memoriae</Link>
         </span>
-        <br/>
+        <br/>*/}
         <a href="https://github.com/bchiang7/v4">
           <div>Based on <u>Brittany Chiang</u>'s site</div>
         </a>        
