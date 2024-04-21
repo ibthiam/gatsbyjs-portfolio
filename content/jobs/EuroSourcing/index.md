@@ -3,7 +3,7 @@ date: '2019-07-15'
 title: 'Hybrid Mobile Developer'
 company: 'EURO SOURCING'
 location: 'Casablanca, Casablance-Settat, Morocco'
-range: 'July 2019 - March 2020'
+range: '07.2019 - 03.2020'
 url: ''
 ---
 
