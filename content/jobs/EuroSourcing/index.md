@@ -8,5 +8,6 @@ url: ''
 ---
 
 - In this project, I had to Study & develop a Hybrid mobile application (in **[ionic](https://ionicframework.com/docs/v4/components)**, **typescript** and **[firebase](https://firebase.google.com/)**) named WhereU, allowing the generation, storage and sharing of a code based on the GPS positioning of a target on the map.
+- Develop and integrate all the different modules, while including a **Java** back-end used to store and centralize some data.
 
 
