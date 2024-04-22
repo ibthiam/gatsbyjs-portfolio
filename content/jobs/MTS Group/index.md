@@ -7,9 +7,8 @@ range: '07.2019 - 09.2019'
 url: 'https://mtsgroup.ma/'
 ---
 
-- Collaborer avec une équipe d'ingénieur logiciel dans le but de créer un module SHARE de la solution [#Alfresco ECM](https://docs.alfresco.com/content-services/6.0/) pour l'intranet de l'entreprise [#Togocom](https://togocom.tg/),
-- Recueillir & analyser les besoins fonctionnels auprès des départements Métier de [#Togocom](https://togocom.tg/),
-- Développer & intégrer le module SHARE de la solution ECM/GEIDE avec [#Alfresco](https://docs.alfresco.com/content-services/6.0/),
-- Lancer des batteries de tests fonctionnels et techniques
-
-
+Implement the SHARE module of the **[#AlfrescoECM](https://docs.alfresco.com/content-services/6.0/)** solution in the intranet of the company Togocel (newly **[#Togocom](https://togocom.tg/)**), a telephone operator in Togo:
+- Study versions 5.6 & 6 of the ECM/GEIDE solution with Alfresco and adapt version 6 on behalf of Togocom Togo,
+- Collect and analyze functional needs from Togocom's business departments,
+- Develop and integrate the SHARE module via REST APIs with Java, Spring, Swagger, etc.
+- Launch of a batch of functional and technical tests.
