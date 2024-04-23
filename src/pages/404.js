@@ -43,14 +43,14 @@ const NotFoundPage = ({ location }) => {
   const content = (
     <StyledMainContainer className="fillHeight">
       <StyledTitle>404</StyledTitle>
-      <StyledSubtitle>Page introuvable</StyledSubtitle>
-      <StyledHomeButton to="/">Retour à l'accueil</StyledHomeButton>
+      <StyledSubtitle>Page not found</StyledSubtitle>
+      <StyledHomeButton to="/">Back to Home</StyledHomeButton>
     </StyledMainContainer>
   );
 
   return (
     <Layout location={location}>
-      <Helmet title="Page introuvable" />
+      <Helmet title="Page not found" />
 
       {prefersReducedMotion ? (
         <>{content}</>
