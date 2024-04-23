@@ -14,6 +14,7 @@ const StyledHeroSection = styled.section`
   align-items: flex-start;
   min-height: 100vh;
   padding: 0;
+  background-color: red;
 
   @media (max-width: 480px) and (min-height: 700px) {
     padding-bottom: 10vh;
