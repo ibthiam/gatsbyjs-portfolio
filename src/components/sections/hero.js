@@ -3,6 +3,7 @@ import { CSSTransition, TransitionGroup } from 'react-transition-group';
 import styled from 'styled-components';
 import { navDelay, loaderDelay } from '@utils';
 import { usePrefersReducedMotion } from '@hooks';
+import { navLinks } from '@config';
 // import { email } from '@config';
 
 const StyledHeroSection = styled.section`
