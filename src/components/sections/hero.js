@@ -80,7 +80,6 @@ const Hero = () => {
     <a
       className="email-link"
       href="#"
-      target="_blank"
       rel="noreferrer">
       Recent contribution: &ldquo;<u>
         <Link to={navLinks[2].url}>UMNIA BANK - Biometrics & OCR</Link>
