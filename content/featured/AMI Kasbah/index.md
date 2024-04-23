@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '5'
 title: 'AMI KASBAH - SMIT'
 cover: './demo.png'
 github: ''
