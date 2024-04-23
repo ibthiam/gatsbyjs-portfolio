@@ -12,4 +12,4 @@ company: 'Gemadec'
 showInProjects: true
 ---
 
-Notre mission était de mettre en place le module [#EHTCasExceptionnel](https://smit.gov.ma/nos-ami#eht) de la solution [#MoovappsProcess](https://moovapps.com) afin de permettre aux propriétaires des Kasbah de lancer leurs demandes pour bénéficier de la contribution financière de l'Etat et à la [SMIT](https://smit.gov.ma) d'exécuter le processus de validation de celle-ci ainsi que d'en faire un suivi complet.
+Our mission was to integrate the **[EHTCasExceptionnel](https://smit.gov.ma/nos-ami#eht)** module of the **[MoovappsProcess](https://moovapps.com)** solution to allow Kasbah owners to submit their requests with a view to benefiting from the State's financial contribution. At the same time, we have implemented the necessary functionalities so that **[SMIT](https://smit.gov.ma)** can validate these requests and ensure complete monitoring of the process.
