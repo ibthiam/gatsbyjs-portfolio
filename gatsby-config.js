@@ -5,7 +5,7 @@ module.exports = {
     title: 'Thiam E. Ibrahima',
     description:
       "Thiam E. Ibrahima is a software engineer specializing in studying and creating exceptional digital experiences.",
-    siteUrl: 'https://thiamibrahima.netlify.com, // No trailing slash allowed!
+    siteUrl: 'https://thiamibrahima.netlify.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@ie_thiam',
   },
