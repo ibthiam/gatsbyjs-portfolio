@@ -1,7 +1,7 @@
 ---
 date: '2020-08-01'
 title: 'Web Developer'
-company: 'OPTIMUM 4 YOU'
+company: 'OPTIMUM 4U'
 location: 'Mohammedia, Casablance-Settat, Morocco'
 range: '08.2020 - 11.2020'
 url: ''
