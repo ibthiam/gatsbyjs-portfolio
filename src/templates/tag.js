@@ -56,13 +56,13 @@ const TagTemplate = ({ pageContext, data, location }) => {
       <StyledTagsContainer>
         <span className="breadcrumb">
           <span className="arrow">&larr;</span>
-          <Link to="/pensieve">Tous les points importants</Link>
+          <Link to="/pensieve">All important points</Link>
         </span>
 
         <h1>
           <span>#{tag}</span>
           <span>
-            <Link to="/pensieve/tags">Voir tous les Mots clés</Link>
+            <Link to="/pensieve/tags">See all tags</Link>
           </span>
         </h1>
 
