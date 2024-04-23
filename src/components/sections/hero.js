@@ -4,6 +4,8 @@ import styled from 'styled-components';
 import { navDelay, loaderDelay } from '@utils';
 import { usePrefersReducedMotion } from '@hooks';
 import { navLinks } from '@config';
+import { Link } from 'gatsby';
+
 // import { email } from '@config';
 
 const StyledHeroSection = styled.section`
@@ -80,7 +82,9 @@ const Hero = () => {
       href="#"
       target="_blank"
       rel="noreferrer">
-      Recent contribution: &ldquo;<Link to={navLinks[2].url}>UMNIA BANK - Biometrics & OCR</Link>&rdquo;
+      Recent contribution: &ldquo;<u>
+        <Link to={navLinks[2].url}>UMNIA BANK - Biometrics & OCR</Link>
+      </u>&rdquo;
     </a>
   );
 
