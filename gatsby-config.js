@@ -4,8 +4,8 @@ module.exports = {
   siteMetadata: {
     title: 'Thiam E. Ibrahima',
     description:
-      "Thiam E. Ibrahima est un ingénieur logiciel spécialisé dans l'étude et la création d'expériences numériques exceptionnelles.",
-    siteUrl: 'https://thiamibrahima.netlify.com', // No trailing slash allowed!
+      "Thiam E. Ibrahima is a software engineer specializing in studying and creating exceptional digital experiences.",
+    siteUrl: 'https://thiamibrahima.netlify.app, // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@ie_thiam',
   },
