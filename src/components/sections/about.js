@@ -138,7 +138,7 @@ const About = () => {
           <div>
             <p>
               My passion for IT professions began in 2016 when I decided to try my hand at web technologies, <a href="">HTML</a>, 
-              <a href="">CSS</a> &amp; <a href="">JS</a>, to be more exact!
+              &nbsp;<a href="">CSS</a> &amp; <a href="">JS</a>, to be more exact!
             </p>
 
             <p>
