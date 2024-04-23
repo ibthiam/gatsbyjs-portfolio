@@ -74,13 +74,14 @@ const Hero = () => {
     </>
   );
   const five = (
-    <a
+    {/*<a
       className="email-link"
       href="#"
       target="_blank"
       rel="noreferrer">
       Recent contribution: &ldquo;<u>Umnia Bank - Biometrics & OCR</u>&rdquo;
-    </a>
+    </a>*/}
+    <Link className="email-link" to={navLinks[2].url}>UMNIA BANK - Biometrics & OCR</Link>
   );
 
   const items = [one, two, three, four, five];
