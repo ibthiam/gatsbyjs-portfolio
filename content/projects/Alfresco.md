@@ -1,15 +1,15 @@
 ---
 date: '2019-07-01'
 title: 'Alfresco ECM - TOGOCOM'
-github: '#'
+github: ''
 external: ''
 tech:
   - Alfresco
-  - Java
+  - JAVA
   - Tomcat
   - MySQL
 company: 'MTS Group'
 showInProjects: true
 ---
 
-L'objectif de ce projet était la mise en place du module SHARE de la solution [#Alfresco ECM](https://docs.alfresco.com/content-services/6.0/) dans l'intranet de l'entreprise Togocel (nouvellement [#Togocom](https://togocom.tg/)), un opérateur téléphonique au Togo. Ce module s'est ajouté au SI de l'entreprise afin d'offrir un système d'archivage électronique optimal et indexé. 
+This project aimed to deploy the SHARE module of the **[Alfresco](https://docs.alfresco.com/content-services/6.0/)** ECM solution in the intranet of Togocel (renamed **[Togocom](https://togocom.tg/)**), a telephone operator based in Togo. The addition of this module within the company's information system aimed to provide an efficient and fully indexed electronic archiving system, thereby improving the management and availability of data within the organization.
