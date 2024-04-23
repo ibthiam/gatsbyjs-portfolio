@@ -156,7 +156,7 @@ const ArchivePage = ({ location, data }) => {
       <main>
         <header ref={revealTitle}>
           <h1 className="big-heading">Archive</h1>
-          <p className="subtitle">Liste des projets sur lesquels j'ai travaillé</p>
+          <p className="subtitle">List of my projects</p>
         </header>
 
         <StyledTableContainer ref={revealTable}>
@@ -165,9 +165,8 @@ const ArchivePage = ({ location, data }) => {
               <tr>
                 <th></th>
                 <th>Nom</th>
-                <th className="hide-on-mobile">Entreprise</th>
+                <th className="hide-on-mobile">Companies</th>
                 <th className="tech-th hide-on-mobile"></th>
-                {/* <th>Lien</th> */}
               </tr>
             </thead>
             <tbody>
@@ -203,31 +202,6 @@ const ArchivePage = ({ location, data }) => {
                             </span>
                           ))}
                       </td>
-
-                      {/* <td className="links">
-                        <div>
-                          {external && (
-                            <a href={external} aria-label="External Link">
-                              <Icon name="Star" />
-                            </a>
-                          )}
-                          {github && (
-                            <a href={github} aria-label="GitHub Link">
-                              <Icon name="GitHub" />
-                            </a>
-                          )}
-                          {ios && (
-                            <a href={ios} aria-label="Apple App Store Link">
-                              <Icon name="AppStore" />
-                            </a>
-                          )}
-                          {android && (
-                            <a href={android} aria-label="Google Play Store Link">
-                              <Icon name="PlayStore" />
-                            </a>
-                          )}
-                        </div>
-                      </td> */}
                     </tr>
                   );
                 })}
