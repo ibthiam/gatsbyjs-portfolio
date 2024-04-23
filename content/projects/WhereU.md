@@ -1,14 +1,17 @@
 ---
 date: '2019-07-15'
 title: 'WhereU - EURO SOURCING'
-github: '#'
+github: ''
 external: ''
 tech:
   - Ionic
-  - Angular
+  - TypeScript
   - Firebase
+  - Java
 company: 'Euro Sourcing'
 showInProjects: true
 ---
 
-[#WhereU]() est une application Mobile Hybride commerciale (en [#ionic](https://ionicframework.com/docs/v4/components) et [#firebase](https://firebase.google.com/docs)) permettant la génération, le stockage et le partage d'un code basé sur les coordonnées géographiques d'une cible.
+**WhereU** is a hybrid mobile application with a commercial vocation which offers the possibility of generating, storing and sharing codes based on the geographical coordinates of a target.
+
+It was developed with **[Ionic](https://ionicframework.com/)** (Angular) and **Firebase** for the front-end, as well as **Spring/Java** for the back-end, to offer a smooth and secure cross-platform experience to users.
