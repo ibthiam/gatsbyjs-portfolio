@@ -14,7 +14,6 @@ tech:
   - JBoss
 ---
 
+**[SMIT (Moroccan Society of Tourism Engineering)](https://smit.gov.ma)** has launched a financing program allowing young project leaders to benefit from financing, incubation and monitoring of their projects by the Moroccan State. The objective was to promote and support youth entrepreneurship in the country.
 
-J'ai participé, avec une équipe, à la conception & à la mise en place du module [#MecanismeFORSA]() de la solution [#MoovappsProcess](https://moovapps.com) de [Visiativ](https://visiativ.com), qui rend possible la phase 4 du programme de financement [#FORSA](https://forsa.ma) au profit de la [#SMIT](https://smit.gov.ma) (Société Marocaine d'Ingénierie Touristique).
-
-L'étude & la dématérialisation des processus métiers du module [#FORSA](https://forsa.ma) fournies par le département métier de la [#SMIT](https://smit.gov.ma), création des API [#Odoo](https://www.odoo.com/fr_FR) utilisés comme source de données, ...
+I participated, with the **[SMIT](https://smit.gov.ma)** teams, in the design & implementation (in **JAVA** and with **ODOO**) of the **[MechanismeFORSA](https://forsa.ma/)** module of **[MoovappsProcess](https://moovapps.com)** solution published by **[Visiativ](https://visiativ.com)**, which makes phase 4 (financing) of the support program for project leaders.
