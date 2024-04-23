@@ -1,17 +1,16 @@
 ---
-date: '5'
-title: 'Portfolio - PERSO'
+date: '3'
+title: 'Portfolio'
 cover: './demo.png'
 github: ''
 external: ''
-cta: 'https://github.com/ibthiam/portfolio'
+cta: 'https://github.com/ibthiam/gatsbyjs-portfolio'
 tech:
   - React
   - Gatsby
   - GraphQL
-  - Javascript
-  - HTML
-  - CSS
+  - JavaScript
+  - TypeScript
 ---
 
 J'ai créé, sur la base du travail de [Brittany Chiang](https://github.com/bchiang7), ce site web personnel afin  d'illustrer mes compétences ainsi que mon expérience et vous donner un aperçu de mon parcours professionnel, jusqu'ici du moins. 
