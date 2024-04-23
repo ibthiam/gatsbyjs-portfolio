@@ -13,6 +13,8 @@ tech:
   - TypeScript
 ---
 
-J'ai créé, sur la base du travail de [Brittany Chiang](https://github.com/bchiang7), ce site web personnel afin  d'illustrer mes compétences ainsi que mon expérience et vous donner un aperçu de mon parcours professionnel, jusqu'ici du moins. 
+I created this personal web space, based on the work of [Brittany Chiang](https://brittanychiang.com/), in order to illustrate my knowledge and my experience in the broad field of IT. While giving you an overview of my professional journey, so far at least.
 
-Ce site est conçu avec le framework open source [Gatsby](https://www.gatsbyjs.com/) qui est basé sur [React](https://fr.reactjs.org/).
+This space also allows me to preserve the important notions: *“Memory does not film, memory photographs”*.
+
+This site is designed with the open source **Gatsby** framework which is based on **React.js**.
