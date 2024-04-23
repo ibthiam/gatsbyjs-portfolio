@@ -13,6 +13,6 @@ tech:
   - MSSQL
 ---
 
-J'ai également contribué à l'intégration de la solution de Gestion des transactions numériques [eSignAnyWhere - eSAW](https://www.esignanywhere.net/fr/) de [#Namirial](https://www.namirial.com/en/) dans l'intranet de [#LafargeHolcim_Maroc - LHM](https://www.lafargeholcim.ma/fr).
+I also contributed to the integration of **[Namirial](https://www.namirial.com/en/)**'s **[eSAW (eSignAnyWhere)](https://www.esignanywhere.net/fr/)** digital transaction management solution into the **[LafargeHolcim_Maroc](https://www.lafargeholcim.ma/fr)** intranet.
 
-L'organisation et la participation à des ateliers projets et métiers avec LHM, adaptation fonctionnelle de eSAW au besoin formulé par la maîtrise d'ouvrage, ...  
+The organization and participation in project and business workshops with **[LafargeHolcim_Maroc](https://www.lafargeholcim.ma/fr)**, functional adaptation of eSAW to the needs formulated by the project owner, ...
