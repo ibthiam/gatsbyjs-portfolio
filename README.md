@@ -81,7 +81,6 @@ This website is designed and built using [Gatsby](https://www.gatsbyjs.org/docs/
    ```sh
     System:
         OS: Linux 5.13 Ubuntu 20.04.4 LTS (Focal Fossa)
-        CPU: (2) x64 Intel(R) Celeron(R) CPU  N3050  @ 1.60GHz
         Shell: 5.0.17 - /bin/bash
       Binaries:
         Node: 16.14.2 - ~/.nvm/versions/node/v16.14.2/bin/node
