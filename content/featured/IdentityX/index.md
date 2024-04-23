@@ -13,6 +13,6 @@ tech:
   - Biometrics
 ---
 
-J'ai également contribué à l'intégration de la solution de Gestion des transactions numériques [eSignAnyWhere - eSAW](https://www.esignanywhere.net/fr/) de [#Namirial](https://www.namirial.com/en/) dans l'intranet de [#LafargeHolcim_Maroc - LHM](https://www.lafargeholcim.ma/fr).
+**[Umnia Bank](https://www.umniabank.ma/fr/accueil)** recently enhanced its mobile banking application to facilitate remote account opening. This update includes a biometrics module allowing users to securely authenticate and provide proof of life during the registration process.
 
-L'organisation et la participation à des ateliers projets et métiers avec LHM, adaptation fonctionnelle de eSAW au besoin formulé par la maîtrise d'ouvrage, ...  
+In collaboration with the Umnia teams, I contributed to the integration, testing and adjustment of the **[DAON](https://www.daon.com/)** SDKs (**Android** and **iOS**) as well as **[Regula](https://regulaforensics.com/)** (**OCR**), providing a complete solution for authentication biometrics and the ocerization of identity documents using the **[IdentityX](https://www.daon.com/products/identityx/)** authentication server in **JAVA**.
