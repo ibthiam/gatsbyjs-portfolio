@@ -18,12 +18,8 @@ module.exports = {
 
   archiveLinks: [
     {
-      name: 'Pensieve',
+      name: 'Folder',
       url: '/pensieve',
-    },
-    {
-      name: 'Tags',
-      url: '/tags',
     },
   ],
 
