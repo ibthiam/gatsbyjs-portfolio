@@ -79,7 +79,7 @@ const Hero = () => {
       href="#"
       target="_blank"
       rel="noreferrer">
-      Recent contribution: &ldquo;<u>AMI EHT</u>&rdquo;
+      Recent contribution: &ldquo;<u>Umnia Bank - Biometrics & OCR</u>&rdquo;
     </a>
   );
 
