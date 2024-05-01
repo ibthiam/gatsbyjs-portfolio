@@ -5,7 +5,7 @@
   "author": "Thiam E. Ibrahima <thiam.ibrahim@hotmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ibthiam/portfolio"
+    "url": "https://github.com/ibthiam/gatsbyjs-portfolio"
   },
   "keywords": [
     "gatsby"
