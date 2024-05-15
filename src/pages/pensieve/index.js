@@ -22,10 +22,6 @@ const StyledMainContainer = styled.main`
     }
   }
 
-  .subtitle-center {
-    text-align: center;
-  }
-
   footer {
     ${({ theme }) => theme.mixins.flexBetween};
     width: 100%;
@@ -159,7 +155,7 @@ const PensievePage = ({ location, data }) => {
           <p className="subtitle subtitle-center breadcrumb">
             {/* <a href="https://www.wizardingworld.com/writing-by-jk-rowling/pensieve"> */}
             {/* </a> */}
-            All important points - <Link to="/pensieve/tags">All tags</Link> <span className="arrow">&rarr;</span>
+            <Link to="/pensieve/tags">All tags</Link>
           </p>
         </header>
 
