@@ -416,6 +416,7 @@ const GlobalStyle = createGlobalStyle`
 
   .subtitle-center {
     text-align: center;
+    background-color: #0FF;
   }
 
   .breadcrumb {
