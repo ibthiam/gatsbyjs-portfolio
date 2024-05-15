@@ -414,6 +414,10 @@ const GlobalStyle = createGlobalStyle`
     }
   }
 
+  .subtitle-center {
+    text-align: center;
+  }
+
   .breadcrumb {
     display: flex;
     align-items: center;
